@@ -6,9 +6,9 @@ public class p_1016 {
         Scanner sc = new Scanner(System.in);
 
         km = sc.nextInt();
+        tempo = km*2;
 
-        tempo = (km*1000/90*1000)
-
+        System.out.printf("%d minutos\n", tempo);
 
         sc.close();
     }
