@@ -37,6 +37,7 @@ public class p_1021 {
         m100 = (int) (entrada/1);
 
 
+        
         sc.close();
     }
 }
