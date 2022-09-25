@@ -1,5 +1,10 @@
 public class p_1036 {
     public static void main(String[] args) {
-        double a, b, c ;        
+        Scanner sc = new Scanner(System.in);
+        double a, b, c ;
+
+        // bhaskara
+
+        sc.close();
     }     
 }
